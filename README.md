@@ -1,4 +1,4 @@
-# GTA V- Solo Public Session- Python
+# GTA V- Solo Public Session
 
 A simple python script to create a solo public session in GTA V.
 
